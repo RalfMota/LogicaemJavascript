@@ -17,3 +17,4 @@ function fibonacciCheck(number) {
 // Exemplo de uso
 const inputNumber = 21; // Pode ser substituído por qualquer entrada
 fibonacciCheck(inputNumber);
+
